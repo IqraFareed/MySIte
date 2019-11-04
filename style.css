@@ -1,0 +1,169 @@
+a 
+{
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration:none;
+}
+a:hover 
+{
+    color:#EAF6F6;
+}
+body 
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:#40514E;
+}
+
+
+h1 
+{
+    
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight:normal;
+}
+h3 
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+}
+.top-container {
+    margin-top:0;
+    padding:0;
+    
+}
+.blue 
+{
+    
+    padding-top:0;
+    background-color: #EAF6F6;
+    height:700px;
+}
+img
+{
+    height:15%;
+    width:20%;
+    border-radius:70%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+    height: 60PX;
+}
+.top-cloud {
+    position: relative;
+    left:200px;
+    top:20px;
+    height:60PX;
+}
+.mountain {
+    border-radius: 2%;
+    position: relative;
+    top: 170px;
+    height: 25%;
+    width: 25%;
+}
+.iqra
+{
+    margin-top: 100px;
+}
+
+.class1
+{
+    
+}
+
+.para {
+    color: #40514E;
+    width:32%;
+    margin-left:450px;
+    font-weight:bold;
+    
+}
+
+hr
+{
+    margin-top:90px;
+    border-style:none;
+    border-top-style:dotted;
+    width:5%;
+    border-width:5px;
+    background-color:white;
+    border-color:grey;
+}
+
+
+p1 {
+    color: #40514E;
+    width: 12%;
+    font-weight: bold;
+}
+
+.skill-row {
+    width: 50%;
+    margin:100px auto;
+    text-align:left;
+    line-height:2;
+}
+.tag 
+{
+    width:30%;
+    margin-left:30px;
+    height:35%;
+    float:left;
+}
+.chillie
+{
+    float:right;
+    margin-right:30px;
+}
+.contactmsg
+{
+    width:40%;
+    margin:40px auto 60px;
+}
+.touch
+{
+    line-height:2;
+}
+.butt 
+{
+    margin:100px auto;
+    
+}
+button {
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: #11cdd4;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.year 
+{
+    color: #EAF6F6;
+    font-size:0.75rem;
+    padding:20px 0;
+}
+footer
+{
+    background-color: #66bfbf;
+    padding:50px 0 20px 
+   
+}
